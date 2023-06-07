@@ -9,3 +9,5 @@ This is the description of the scripts in the tasks
  3-listfiles: Display current directory contents in a long format.
 
  4-listmorefiles: Display current directory contents, including hidden files (starting with .). Use the long format.
+
+ 5-listfilesdigitonly: Display current directory contents with long format, numerical user and groups IDs and hidden files
