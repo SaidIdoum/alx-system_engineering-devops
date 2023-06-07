@@ -17,3 +17,5 @@ This is the description of the scripts in the tasks
  7-movethatfile : 7. Betty in my first directory
 
  8-firstdelete: Delete the file /tmp/my_first_directory/betty
+
+ 9-firstdirdeletion : Delete the directory my_first_directory that is in the /tmp directory.
