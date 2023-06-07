@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-0x00. Shell, basics
+This is the description of the scripts in the tasks
