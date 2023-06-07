@@ -19,3 +19,5 @@ This is the description of the scripts in the tasks
  8-firstdelete: Delete the file /tmp/my_first_directory/betty
 
  9-firstdirdeletion : Delete the directory my_first_directory that is in the /tmp directory.
+
+ 10-back: a script that changes the working directory to the previous one.
