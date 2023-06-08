@@ -18,3 +18,5 @@ This is the Readme file for 0x01 Shell permissions project:
  8-James_Bond : Sets no permissions to anyone exept other users who have all permissions for the file hello
 
  9-John_Doe: sets the mode of the file to read-write for owner, execute and read for group owner, and write and execute for other users
+
+ 10-mirror_permissions : sets the mode of the file hello the same as olleh’s mode.
