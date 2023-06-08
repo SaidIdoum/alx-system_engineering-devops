@@ -22,3 +22,5 @@ This is the Readme file for 0x01 Shell permissions project:
  10-mirror_permissions : sets the mode of the file hello the same as olleh’s mode.
 
  1-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+
+ 2-directory_permissions: a script that creates a directory called my_dir with permissions 751 in the working directory.
