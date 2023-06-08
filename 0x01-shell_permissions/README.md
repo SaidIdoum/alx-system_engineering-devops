@@ -14,3 +14,5 @@ This is the Readme file for 0x01 Shell permissions project:
  6-multiple_permissions: a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
  7-everybody : adds execution permission to the owner, the group owner and the other users, to the file hello
+
+ 8-James_Bond : Sets no permissions to anyone exept other users who have all permissions for the file hello
