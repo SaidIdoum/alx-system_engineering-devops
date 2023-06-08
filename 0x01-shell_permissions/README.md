@@ -6,3 +6,5 @@ This is the Readme file for 0x01 Shell permissions project:
  2-groups : a script that prints all the groups the current user is part of.
 
  3-new_owner : changes the owner of the file hello to the user betty.
+
+ 4-empty: Creates an empty file caled hello

@@ -1,1 +1,1 @@
-This is the description of the scripts in the tasks
+This is the desription of the scripts in the tasks
