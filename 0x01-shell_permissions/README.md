@@ -20,3 +20,5 @@ This is the Readme file for 0x01 Shell permissions project:
  9-John_Doe: sets the mode of the file to read-write for owner, execute and read for group owner, and write and execute for other users
 
  10-mirror_permissions : sets the mode of the file hello the same as olleh’s mode.
+
+ 1-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
