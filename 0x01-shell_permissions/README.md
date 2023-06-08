@@ -10,3 +10,5 @@ This is the Readme file for 0x01 Shell permissions project:
  4-empty: Creates an empty file caled hello
 
  5-execute : adds execute permission to the owner of the file hello.
+
+ 6-multiple_permissions: a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
